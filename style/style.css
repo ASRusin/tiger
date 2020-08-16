@@ -247,9 +247,9 @@ img{
   position: fixed;  
 }
 .carousel-wrapper{
-    height:400px;
+    height:60%;
     position:relative;
-    width:700px;
+    width:44%;
     margin:0 auto;
   }
   .carousel-item{
