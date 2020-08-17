@@ -18,11 +18,7 @@ img{
 }
 .tiger_with_people{
   position: relative;
-  height: 100vh;
-  
-  background-position-y: -8vw;
-  background-size: cover;
-     
+  height: 100vh;     
 }
 .img_people1{
   top: 7vw;
@@ -159,21 +155,12 @@ img{
 .tiger_other{
   position: relative;
   width: 100%;
-  height: 100vh;
-  
-  background-position-y: -8vw;
-  background-position-x: 12vw;
-  background-size: cover;
-  
+  height: 100vh;  
 }
 .tiger_video{
   position: relative;
   width: 100%;
-  height: 100vh;
-  
-  background-position-y: -8vw;
-  background-position-x: 12vw;
-  background-size: cover;
+  height: 100vh;  
 }
 .video_fon{
   position: absolute;
@@ -183,8 +170,7 @@ img{
 }
 
 .video:active,
-.video:focus{
-  
+.video:focus{  
   width: 65vw;
   height: 36.89vw;
   left: 27vw;
